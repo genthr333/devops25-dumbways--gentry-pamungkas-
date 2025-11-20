@@ -34,6 +34,12 @@ Step by step penggunaan text manipulation
   echo "..." >> (nama file) akan menambahkan text ke dalam file
 
 ***
-
+Set akses pada port 22 untuk ssh
+Set akses pada port 80 untuk http
+Set akses pada port 443 untuk https
+Set akses pada port 3000
+Set akses pada port 5000
+Set akses pada port 6969
+ <p align="center"> <img src="aksesport.png" width="700" alt="command"> </p>
 
   
