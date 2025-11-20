@@ -13,9 +13,18 @@ PC4 : 192.168.11.8
 Catatan
 Subnet /28 memiliki host usable 1–14.
 
+
+
 Perbedaan SH(shell) dan BASH(Bourne-again Shell)
 ***
 Shell itu merupakan program interface, di mana user bisa menginput command dan menjalakannya ke operating system.
-BASH(Bourne Again Shell) itu merupakan salah satu dari jenis shell dan merupakan jenis shell yang paling umum.
-kalo disimpulkan BASH itu seperti Chrome merupakan salah satu dari browser.
 
+BASH(Bourne Again Shell) itu merupakan salah satu dari jenis shell dan merupakan jenis shell yang paling umum.
+
+Kalo disimpulkan BASH itu seperti Chrome merupakan salah satu dari browser.
+
+
+Command basic BASH
+***
+
+1.
